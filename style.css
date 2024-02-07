@@ -1,0 +1,88 @@
+/* Reset some default styles */
+body,
+h1,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+header {
+    background-color: #e74c3c;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #e74c3c;
+    color: #fff;
+}
+
+/* Customize the invitation content styles */
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #3498db;
+}
+
+/* Add more styles as needed */
+
+/* Add styles for the images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+/* Add styles for the buttons */
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#yesButton {
+    background-color: #2ecc71; /* Green color */
+    color: #fff; /* White text color */
+    border: none;
+}
+
+#noButton {
+    background-color: #e74c3c; /* Red color */
+    color: #fff; /* White text color */
+    border: none;
+}
+
+/* Add styles for the images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
