@@ -14,7 +14,7 @@ function showHappyCat() {
 
 // Add function for the "No" button if needed
 document.getElementById("noButton").addEventListener("click", function () {
-    alert("That's okay! Maybe next time.");
+    alert(":(");
     // Hide the button container after clicking
     document.getElementById("buttonContainer").style.display = "none";
 });
